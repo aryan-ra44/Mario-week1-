@@ -1,1 +1,2 @@
-Using C for the first time. This is C, getting an input from the user, asking for their name, and then printing the user's name
+Created a program where it prompts the user by saying "What is your name". 
+First program using C
