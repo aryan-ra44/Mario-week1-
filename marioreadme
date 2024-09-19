@@ -1,0 +1,2 @@
+The mario code takes the input of the user to create a triangle block based on the height number the user gives
+For example, if the user gives the height of 4, the program will create 4 fours, each row progressively adding one hashtag until there are four hashtags in the last row
